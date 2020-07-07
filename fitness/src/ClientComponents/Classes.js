@@ -21,7 +21,7 @@ const Help = styled.div`
 `;
 
 const Image = styled.div`
-  width: 100%;
+  width: 98%;
 `;
 const Img = styled.img`
   width: 100%;
